@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @qneill-sifive
+- 👀 I’m interested in compilers, toolchains, builds, automation, and devops
+- 🌱 I’m currently learning all about RISC-V and the implications of open source architectures
